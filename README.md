@@ -5,3 +5,5 @@ Nesse desafio criamos um BD MySql, manipulamos pelo Workbanch.
 Foi necessário criar um banco de dados na Azure para acesso na cloud, onde inserimos todas as informações do BD para acesso em tempo real.
 
 Após carregar o BD no Power BI, foi feito um processo de ETL.
+
+Servidor: desafio-projeto-dio-company.mysql.database.azure.com
